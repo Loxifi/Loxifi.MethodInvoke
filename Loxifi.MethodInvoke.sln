@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loxifi.MethodInvoke", "Loxifi.MethodInvoke.csproj", "{2745BB51-8204-4B3F-AEA5-2E267ED1E190}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loxifi.MethodInvoke.Tests", "Tests\Loxifi.MethodInvoke.Tests.csproj", "{CE8CD8EB-818E-4DBB-91F4-06912B88CE80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2745BB51-8204-4B3F-AEA5-2E267ED1E190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2745BB51-8204-4B3F-AEA5-2E267ED1E190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2745BB51-8204-4B3F-AEA5-2E267ED1E190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2745BB51-8204-4B3F-AEA5-2E267ED1E190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8CD8EB-818E-4DBB-91F4-06912B88CE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8CD8EB-818E-4DBB-91F4-06912B88CE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8CD8EB-818E-4DBB-91F4-06912B88CE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8CD8EB-818E-4DBB-91F4-06912B88CE80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ABB9D58-582B-4C76-A35E-186D98793076}
+	EndGlobalSection
+EndGlobal
